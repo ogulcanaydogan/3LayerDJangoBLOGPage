@@ -48,20 +48,20 @@ In the architecture, you can configure your infrastructure using the followings,
 
 ## Application Deployment
 
-5. **Copy files downloaded or cloned from Techproeducation repo on Github**
-6. **Prepare your Github repository**
-7. **Prepare a userdata to be utilized in Launch Template**
-8. **Write RDS database endpoint and S3 Bucket name in settings file given by Developer and push your application into your own repo on Github**
-9. **Create NAT Instance in Public Subnet**
-10. **Create Launch Template and IAM role for it**
-11. **Create certification for secure connection**
-12. **Create ALB and Target Group**
-13. **Create Autoscaling Group with Launch Template**
-14. **Create Cloudfront in front of ALB**
-15. **Create Route 53 with Failover settings**
-16. **Create DynamoDB Table**
-17. **Create Lambda function**
-18. **Create S3 Event and set it as trigger for Lambda Function**
+
+5. **Prepare your Github repository**
+6. **Prepare a userdata to be utilized in Launch Template**
+7. **Write RDS database endpoint and S3 Bucket name in settings file given by Developer and push your application into your own repo on Github**
+8. **Create NAT Instance in Public Subnet**
+9. **Create Launch Template and IAM role for it**
+10. **Create certification for secure connection**
+11. **Create ALB and Target Group**
+12. **Create Autoscaling Group with Launch Template**
+13. **Create Cloudfront in front of ALB**
+14. **Create Route 53 with Failover settings**
+15. **Create DynamoDB Table**
+16. **Create Lambda function**
+17. **Create S3 Event and set it as trigger for Lambda Function**
 
 ## Server Specifications
 
